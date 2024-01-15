@@ -1,0 +1,44 @@
+* {
+    background-color: blanchedalmond;
+  }
+
+  .intro{
+    color: black;
+
+    }
+
+
+.lien_redir {
+text-decoration: none;
+font-family: 'Manrope', sans-serif;
+font-size: 1em;
+color: #383E42;
+display: flex;
+justify-content: flex-start;
+margin: 50px;
+}
+
+.lien_redir:hover{
+
+text-decoration: underline overline ;
+font-family: 'Manrope', sans-serif;
+font-size: em;
+color: #af4d4d;
+display: flex;
+justify-content: flex-start;
+margin: 50px;
+}
+
+.accueil-photos {
+     padding: 80px;
+  }
+
+  .accueil-photos div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+
+
